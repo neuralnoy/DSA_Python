@@ -1,7 +1,7 @@
 [project]
 name = "dsa-python"
 version = "0.1.0"
-description = "Add your description here"
+description = "My learning project for DSA in Python"
 requires-python = ">=3.13"
 dependencies = [
     "matplotlib>=3.10.8",
